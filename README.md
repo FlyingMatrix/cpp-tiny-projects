@@ -1,2 +1,2 @@
-# C++ tiny projects
+# Cpp Tiny Projects
 Various C++ tiny projects
